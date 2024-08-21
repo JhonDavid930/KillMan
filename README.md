@@ -35,6 +35,13 @@ KILLMAN es compatible con las siguientes distribuciones de Linux:
 
 ## Advertencias
 
+<p style="color: red;"><strong>Dependencias:</strong> El script eliminará <code>curl</code>, <code>gnupg</code>, y <code>jq</code> si fueron instalados durante el proceso de instalación. Asegúrate de que estas dependencias no sean necesarias para otras aplicaciones en tu sistema antes de ejecutar KILLMAN.</p>
+
+<p style="color: red;"><strong>Irreversibilidad:</strong> Este script realiza una limpieza completa. Asegúrate de querer desinstalar completamente Suricata y eliminar todos los archivos relacionados antes de ejecutar KILLMAN.</p>
+
+
+## Advertencias
+
 - **Dependencias:** El script eliminará `curl`, `gnupg`, y `jq` si fueron instalados durante el proceso de instalación. Asegúrate de que estas dependencias no sean necesarias para otras aplicaciones en tu sistema antes de ejecutar KILLMAN.
 - **Irreversibilidad:** Este script realiza una limpieza completa. Asegúrate de querer desinstalar completamente Suricata y eliminar todos los archivos relacionados antes de ejecutar KILLMAN.
 
