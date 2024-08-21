@@ -18,6 +18,7 @@ Este desinstalador es el complemento perfecto para el instalador de Suricata(SUR
 1. Ejecuta el script de desinstalación como superusuario (root):
 
     ```bash
+    sudo chmod +x killman.sh
     sudo ./killman.sh
     ```
 
