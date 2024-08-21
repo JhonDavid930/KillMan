@@ -11,8 +11,4 @@ Este desinstalador es el complemento perfecto para el instalador de Suricata. Si
 - **Limpieza de configuraciones y archivos residuales:** Todos los archivos de configuración de Suricata se eliminan, incluyendo los repositorios PPA agregados durante la instalación.
 - **Eliminación de dependencias adicionales:** Si se instalaron dependencias adicionales como `curl`, `gnupg`, y `jq` durante la instalación, KILLMAN las eliminará automáticamente para evitar residuos innecesarios en tu sistema.
 
-## Uso
-Clona este repositorio en tu sistema local:
 
-```bash
-git clone https://github.com/JhonDavid930/Suricata-instalacion
