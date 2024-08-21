@@ -33,7 +33,6 @@ KILLMAN es compatible con las siguientes distribuciones de Linux:
 - Red Hat
 - Fedora
 
-## Advertencias
 
 ## Advertencias
 
