@@ -4,7 +4,7 @@
 
 **KILLMAN** es un script de desinstalación diseñado para eliminar completamente **Suricata** de sistemas operativos basados en Linux. Este script está optimizado para limpiar no solo la instalación de Suricata, sino también todas las configuraciones, archivos adicionales y dependencias instaladas durante el proceso de instalación.
 
-Este desinstalador es el complemento perfecto para el instalador de Suricata. Si has utilizado el script de instalación mencionado, KILLMAN te ayudará a revertir todos los cambios realizados y dejar tu sistema en un estado limpio.
+Este desinstalador es el complemento perfecto para el instalador de Suricata(SURICATAMAN). Si has utilizado el script de instalación mencionado (https://github.com/JhonDavid930/SURICATAMAN), KILLMAN te ayudará a revertir todos los cambios realizados y dejar tu sistema en un estado limpio.
 
 ## Características
 
